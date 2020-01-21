@@ -9,7 +9,7 @@ public class Order {
         System.out.println("1 - poulet");
         System.out.println("2 - boeuf");
         System.out.println("3 - végétarien");
-        System.out.println("Que souhaitez-vous comme menu ?");
+        System.out.println("Que souhaitez-vous comme meny ?");
     }
     /**
      * Display a selected menu.
